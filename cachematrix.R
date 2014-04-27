@@ -16,6 +16,9 @@
 ## x <- matrix(c(1,2,3,4), 2, 2)
 ## y <- makeCacheMatrix(x)
 ## z <- cacheSolve(y)
+## z
+## z2 <- cacheSolve(y) ##print "getting cached data"
+## z2
 
 
 ## function makeCacheMatrix creates a special "matrix", which is really a list
